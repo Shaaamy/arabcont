@@ -1,0 +1,12 @@
+D:\01AmrShamy\Projects\ArabCont\ArabCont.DAL\bin\Debug\net8.0\ArabCont.DAL.deps.json
+D:\01AmrShamy\Projects\ArabCont\ArabCont.DAL\bin\Debug\net8.0\ArabCont.DAL.dll
+D:\01AmrShamy\Projects\ArabCont\ArabCont.DAL\bin\Debug\net8.0\ArabCont.DAL.pdb
+D:\01AmrShamy\Projects\ArabCont\ArabCont.DAL\obj\Debug\net8.0\ArabCont.DAL.csproj.AssemblyReference.cache
+D:\01AmrShamy\Projects\ArabCont\ArabCont.DAL\obj\Debug\net8.0\ArabCont.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\01AmrShamy\Projects\ArabCont\ArabCont.DAL\obj\Debug\net8.0\ArabCont.DAL.AssemblyInfoInputs.cache
+D:\01AmrShamy\Projects\ArabCont\ArabCont.DAL\obj\Debug\net8.0\ArabCont.DAL.AssemblyInfo.cs
+D:\01AmrShamy\Projects\ArabCont\ArabCont.DAL\obj\Debug\net8.0\ArabCont.DAL.csproj.CoreCompileInputs.cache
+D:\01AmrShamy\Projects\ArabCont\ArabCont.DAL\obj\Debug\net8.0\ArabCont.DAL.dll
+D:\01AmrShamy\Projects\ArabCont\ArabCont.DAL\obj\Debug\net8.0\refint\ArabCont.DAL.dll
+D:\01AmrShamy\Projects\ArabCont\ArabCont.DAL\obj\Debug\net8.0\ArabCont.DAL.pdb
+D:\01AmrShamy\Projects\ArabCont\ArabCont.DAL\obj\Debug\net8.0\ref\ArabCont.DAL.dll

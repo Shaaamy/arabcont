@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ArabCont.PL.props" />
+</Project>

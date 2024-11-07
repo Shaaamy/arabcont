@@ -1,0 +1,15 @@
+D:\01AmrShamy\Projects\ArabCont\ArabCont.BLL\bin\Debug\net8.0\ArabCont.BLL.deps.json
+D:\01AmrShamy\Projects\ArabCont\ArabCont.BLL\bin\Debug\net8.0\ArabCont.BLL.dll
+D:\01AmrShamy\Projects\ArabCont\ArabCont.BLL\bin\Debug\net8.0\ArabCont.BLL.pdb
+D:\01AmrShamy\Projects\ArabCont\ArabCont.BLL\bin\Debug\net8.0\ArabCont.DAL.dll
+D:\01AmrShamy\Projects\ArabCont\ArabCont.BLL\bin\Debug\net8.0\ArabCont.DAL.pdb
+D:\01AmrShamy\Projects\ArabCont\ArabCont.BLL\obj\Debug\net8.0\ArabCont.BLL.csproj.AssemblyReference.cache
+D:\01AmrShamy\Projects\ArabCont\ArabCont.BLL\obj\Debug\net8.0\ArabCont.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\01AmrShamy\Projects\ArabCont\ArabCont.BLL\obj\Debug\net8.0\ArabCont.BLL.AssemblyInfoInputs.cache
+D:\01AmrShamy\Projects\ArabCont\ArabCont.BLL\obj\Debug\net8.0\ArabCont.BLL.AssemblyInfo.cs
+D:\01AmrShamy\Projects\ArabCont\ArabCont.BLL\obj\Debug\net8.0\ArabCont.BLL.csproj.CoreCompileInputs.cache
+D:\01AmrShamy\Projects\ArabCont\ArabCont.BLL\obj\Debug\net8.0\ArabCont.B4199AC1.Up2Date
+D:\01AmrShamy\Projects\ArabCont\ArabCont.BLL\obj\Debug\net8.0\ArabCont.BLL.dll
+D:\01AmrShamy\Projects\ArabCont\ArabCont.BLL\obj\Debug\net8.0\refint\ArabCont.BLL.dll
+D:\01AmrShamy\Projects\ArabCont\ArabCont.BLL\obj\Debug\net8.0\ArabCont.BLL.pdb
+D:\01AmrShamy\Projects\ArabCont\ArabCont.BLL\obj\Debug\net8.0\ref\ArabCont.BLL.dll

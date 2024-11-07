@@ -1,0 +1,24 @@
+﻿@model NewsViewModel
+
+
+
+    <input asp-for="ImageName" hidden />
+
+<div class=" form-group">
+    <label class="col-form-label" asp-for="Title"></label>
+    <input class="form-control" asp-for="Title">
+    <span asp-validation-for="Title" class="text-danger"></span>
+</div>
+<div class=" form-group">
+    <label class="col-form-label" asp-for="Image"></label>
+    <input class="form-control" asp-for="Image">
+</div>
+
+<div class=" form-group">
+    <label class="col-form-label" asp-for="NewsDate"></label>
+    <input class="form-control" asp-for="NewsDate">
+    <span asp-validation-for="NewsDate" class="text-danger"></span>
+</div>
+
+
+

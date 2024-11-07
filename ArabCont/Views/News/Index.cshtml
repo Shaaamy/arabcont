@@ -1,0 +1,30 @@
+﻿@model IEnumerable<NewsViewModel>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.css">
+<link rel="stylesheet" href="~/css/NewsStyleSheet.css" />
+<script src="~/js/News.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.js"></script>
+<a asp-action="Create" class="btn btn-success mb-3">Create News</a>
+<div class="owl-carousel owl-theme mt-5">
+    @foreach(var news in Model)
+    {
+        <div class="owl-item">
+            <div class="card">
+                <div class="img-card">
+                    <img src="~/Files/Images/@news.ImageName"/>
+                </div>
+                <div class="testimonial mt-4 mb-2">
+                    @news.Title
+                </div>
+                <div class="name">
+                    @news.NewsDate
+                </div>
+            </div>
+        </div>
+    }
+   
+</div>
